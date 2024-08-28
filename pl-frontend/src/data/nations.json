@@ -1,0 +1,32 @@
+{
+    "nations": [
+        {"code" : "BR", "name" : "Brazil", "search" : "br BRA"},
+        {"code" : "GB-ENG", "name" : "England", "search" : "eng ENG"},
+        {"code" : "AR", "name" : "Argentina", "search" : "ar ARG"},
+        {"code" : "FR", "name" : "France", "search" : "fr FRA"},
+        {"code" : "IE", "name" : "Ireland", "search" : "ie IRL"},
+        {"code" : "ES", "name" : "Spain", "search" : "es ESP"},
+        {"code" : "PT", "name" : "Portugal", "search" : "pt POR"},
+        {"code" : "GB-WLS", "name" : "Wales", "search" : "wls WAL"},
+        {"code" : "NL", "name" : "Netherlands", "search" : "nl NED"},
+        {"code" : "GB-SCT", "name" : "Scotland", "search" : "sct SCO"},
+        {"code" : "BE", "name" : "Belgium", "search" : "be BEL"},
+        {"code" : "DK", "name" : "Denmark", "search" : "dk DEN"},
+        {"code" : "DE", "name" : "Germany", "search" : "de GER"},
+        {"code" : "IT", "name" : "Italy", "search" : "it ITA"},
+        {"code" : "CO", "name" : "Colombia", "search" : "co COL"},
+        {"code" : "US", "name" : "United States", "search" : "us USA"},
+        {"code" : "SE", "name" : "Sweden", "search" : "se SWE"},
+        {"code" : "NG", "name" : "Nigeria", "search" : "ng NGA"},
+        {"code" : "GH", "name" : "Ghana", "search" : "gh GHA"},
+        {"code" : "KR", "name" : "Korea", "search" : "kr KOR"},
+        {"code" : "JP", "name" : "Japan", "search" : "jp JPN"},
+        {"code" : "HR", "name" : "Croatia", "search" : "hr CRO"},
+        {"code" : "EG", "name" : "Egypt", "search" : "eg EGY"},
+        {"code" : "MX", "name" : "Mexico", "search" : "mx MEX"},
+        {"code" : "HU", "name" : "Hungary", "search" : "hu HUN"},
+        {"code" : "NO", "name" : "Norway", "search" : "no NOR"},
+        {"code" : "SN", "name" : "Senegal", "search" : "sn SEN"},
+        { "code": "AU", "name": "Australia", "search": "au AUS" }
+    ]
+}
